@@ -41,6 +41,4 @@ These are loaded via CDN in `index.html`.
 - To change the initial tasks, edit the `tasks` array in [`script.js`](script.js).
 - To use a real API, update the fetch URL in the `postToApi` function in [`script.js`](script.js).
 
-## License
 
-MIT
